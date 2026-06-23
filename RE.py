@@ -395,7 +395,7 @@ st.title("Interpretar código QR, Elecciones Venezuela 2024")
 st.sidebar.markdown("## 📌 Navegación")
 #st.sidebar.markdown("[INICIO](#96bbc1db)", unsafe_allow_html=True)
 st.sidebar.markdown(
-    '<a id="bini" href="#96bbc1db" target="_self"><button>INICIO</button></a>', 
+    '<a id="bini" href="#interpretar-codigo-qr-elecciones-venezuela-2024" target="_self"><button>INICIO</button></a>', 
     unsafe_allow_html=True )
   
 def clear_text():
