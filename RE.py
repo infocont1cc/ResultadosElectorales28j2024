@@ -302,7 +302,7 @@ def showresults():
     insertar('-'*35)    
     st.header("Seccion WhatsApp")    
     st.sidebar.markdown(
-    '<a href="#seccion-whatsapp" target="_self"><button>Sección Whatsapp</button></a>', 
+    '<a href="#seccion-whats-app" target="_self"><button>Sección Whatsapp</button></a>', 
     unsafe_allow_html=True
                 )
     st.markdown(' :blue-background[Copie este código en posts WhatsApp]',help="Para Copiar en posts Wahtsapp, busque el simbolo parecido a ⧉ , en el extremo superior derecho y haga click en él  ")      
